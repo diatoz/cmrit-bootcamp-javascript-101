@@ -1,1 +1,1 @@
-# cmrit-bootcamp-javascript-101
+# CMRIT Bootcamp JavaScript 101
